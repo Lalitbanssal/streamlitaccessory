@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 import yfinance as yf
 import datetime
-import seaborn as sns
-import matplotlib.pyplot as plt
+
 
 st.title("Stock Market Predicition Made by Lalit Bansal")
 st.write("This is my sample website for testing")
